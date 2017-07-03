@@ -1,0 +1,33 @@
+{
+    "log": {
+        "level": "INFO",
+        "path": "logs.log"
+    },
+
+    "spy": {
+        "thread_pool": 10,
+
+        "retry": 15,
+
+        "timeout": 30,
+
+        "download_timeout": 300,
+
+        "rest": 0.01,
+
+        "thread_pool_size": 10,
+
+        "path_rule": "{member_name}",
+
+        "image_name_rule": "{illust_name}_{image_name}_{image_pname}"
+    },
+
+
+    "username": "",
+
+    "password": "",
+
+    "mode": "id",
+
+    "id": [2468289]
+}
